@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexTafkov
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in C# and C++
+- 🌱 I’m currently learning C# and C++
 - 📫 How to reach me alekstafkov@gmail.com
 
 <!---
